@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "hainzsmp.minefort.com",
-    "port": 25565,
+    "ip": "HainzSMP.aternos.me",
+    "port": 35411,
     "version": "1.21.10",
     "try-creative": false
   },
