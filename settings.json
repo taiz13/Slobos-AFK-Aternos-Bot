@@ -1,7 +1,7 @@
 {
   "name": "TBot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "",
     "password": "",
     "type": "offline"
   },
@@ -27,13 +27,13 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Hainz!",
+        "Ciuf Ciuf Titaainz!!",
+        "Hinz Taiz Catainz Titainz"
       ]
     },
     "chat-log": true,
