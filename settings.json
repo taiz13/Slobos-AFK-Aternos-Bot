@@ -1,7 +1,7 @@
 {
   "name": "TBot",
   "bot-account": {
-    "username": ".",
+    "username": "HainzSMPmanager",
     "password": "",
     "type": "offline"
   },
@@ -38,8 +38,8 @@
     },
     "chat-log": false,
     "auto-reconnect": false,
-    "auto-reconnect-delay": 99999999999999999999999999999,
-    "max-reconnect-delay": 99999999999999999999999999999
+    "auto-reconnect-delay": 9999999999999999,
+    "max-reconnect-delay": 10000000000000000
   },
   "movement": {
     "enabled": false,
