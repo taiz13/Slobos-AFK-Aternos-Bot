@@ -19,12 +19,12 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "chalol78"
     },
     "anti-afk": {
       "enabled": false,
-      "sneak": true
+      "sneak": false
     },
     "chat-messages": {
       "enabled": false,
@@ -38,8 +38,8 @@
     },
     "chat-log": false,
     "auto-reconnect": false,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "auto-reconnect-delay": 200000000000,
+    "max-reconnect-delay": 120000000000
   },
   "movement": {
     "enabled": false,
