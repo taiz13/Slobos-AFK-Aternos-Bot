@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "HainzSMP.aternos.me",
-    "port": 35411,
-    "version": "1.21.11",
+    "ip": "imperotaeziano.falixsrv.me",
+    "port": 23381,
+    "version": "1.21.10",
     "try-creative": false
   },
   "position": {
@@ -23,7 +23,7 @@
       "password": "chalol78"
     },
     "anti-afk": {
-      "enabled": true,
+      "enabled": false,
       "sneak": true
     },
     "chat-messages": {
@@ -42,7 +42,7 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
