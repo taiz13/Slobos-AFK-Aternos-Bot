@@ -1,7 +1,7 @@
 {
   "name": "TBot",
   "bot-account": {
-    "username": "",
+    "username": ".",
     "password": "",
     "type": "offline"
   },
