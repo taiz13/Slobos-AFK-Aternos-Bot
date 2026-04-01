@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": false,
       "repeat": false,
-      "repeat-delay": 120,
+      "repeat-delay": 12000000,
       "messages": [
         "Hainz!",
         "Ciuf Ciuf Titaainz!!",
-        "Hinz Taiz Catainz Titainz"
+        "Hainz Taiz Catainz Titainz"
       ]
     },
     "chat-log": false,
