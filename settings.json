@@ -38,8 +38,8 @@
     },
     "chat-log": false,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 99999,
-    "max-reconnect-delay": 100000
+    "auto-reconnect-delay": 12000,
+    "max-reconnect-delay": 20000
   },
   "movement": {
     "enabled": true,
@@ -77,7 +77,7 @@
     "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
     "events": {
       "connect": true,
-      "disconnect": false,
+      "disconnect": true,
       "chat": false
     }
   },
