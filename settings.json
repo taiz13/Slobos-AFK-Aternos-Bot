@@ -8,7 +8,7 @@
   "server": {
     "ip": "imperotaeziano.falixsrv.me",
     "port": 24564,
-    "version": "1.21.10",
+    "version": "",
     "try-creative": false
   },
   "position": {
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": false,
+      "enabled": true,
       "password": "chalol78"
     },
     "anti-afk": {
@@ -38,8 +38,8 @@
     },
     "chat-log": false,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 10000,
-    "max-reconnect-delay": 17000
+    "auto-reconnect-delay": 12000,
+    "max-reconnect-delay": 20000
   },
   "movement": {
     "enabled": true,
