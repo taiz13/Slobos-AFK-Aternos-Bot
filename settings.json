@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "imperotaeziano.falixsrv.me",
-    "port": 24564,
-    "version": "",
+    "port": ,
+    "version": "1.21.10",
     "try-creative": false
   },
   "position": {
