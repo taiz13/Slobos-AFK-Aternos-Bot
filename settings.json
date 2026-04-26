@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "imperotaeziano.falixsrv.me",
-    "port": 20586,
+    "port": 58391,
     "version": "1.21.10",
     "try-creative": false
   },
@@ -76,8 +76,8 @@
     "enabled": false,
     "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
     "events": {
-      "connect": true,
-      "disconnect": true,
+      "connect": false,
+      "disconnect": false,
       "chat": false
     }
   },
