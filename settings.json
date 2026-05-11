@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "frodefiscale1926.aternos.me",
+    "ip": "frodefiscale1926.aternos.me:25064",
     "port": 25064,
-    "version": "",
+    "version": "26.1.1",
     "try-creative": false
   },
   "position": {
