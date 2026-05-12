@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": false,
       "repeat": false,
-      "repeat-delay": 12000000,
+      "repeat-delay": 12000,
       "messages": [
         "Hainz!",
         "Ciuf Ciuf Titaainz!!",
@@ -38,8 +38,8 @@
     },
     "chat-log": false,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 12000,
-    "max-reconnect-delay": 20000
+    "auto-reconnect-delay": 1200,
+    "max-reconnect-delay": 2000
   },
   "movement": {
     "enabled": true,
